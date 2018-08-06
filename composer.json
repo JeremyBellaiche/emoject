@@ -38,7 +38,8 @@
             ]
         }
     },
-    "license": "MIT",
+  "minimum-stability": "dev",
+  "license": "MIT",
     "repositories": {
         "local": {
             "type": "path",
